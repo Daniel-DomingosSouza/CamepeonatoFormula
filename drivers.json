@@ -1,0 +1,22 @@
+[
+  {
+    "driverName": "Ayrton Senna",
+    "points": "45"
+  },
+  {
+    "driverName": "Lewis Hamilton",
+    "points": "33"
+  },
+  {
+    "driverName": "Max Verstappen",
+    "points": "27"
+  },
+  {
+    "driverName": "Charles Leclerc",
+    "points": "15"
+  },
+  {
+    "driverName": "Fernando Alonso",
+    "points": "10"
+  }
+]
